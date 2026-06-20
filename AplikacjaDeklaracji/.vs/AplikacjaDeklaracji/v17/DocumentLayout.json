@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\aplikacjadeklaracji.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\aplikacjadeklaracji.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adria\\AppData\\Roaming\\Microsoft\\UserSecrets\\bd5434b0-539f-4f03-bb22-38f09212716a\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\tabeladeklaracji\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\tabeladeklaracji\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\historia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\historia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\historia\\editlokal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\historia\\editlokal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\historia\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\historia\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\documents\\nodocuments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\documents\\nodocuments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\models\\typzdarzenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\models\\typzdarzenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\models\\lokale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\models\\lokale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\models\\dokumentyoczekujace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\models\\dokumentyoczekujace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\models\\deklaracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\models\\deklaracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\models\\daneosobowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\models\\daneosobowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\controllers\\tabeladeklaracjicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\controllers\\tabeladeklaracjicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\controllers\\historiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\controllers\\historiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|c:\\users\\adria\\source\\repos\\bachelor-project\\aplikacjadeklaracji\\aplikacjadeklaracji\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5B90EDB5-2779-4345-9050-DD9D5A3EB9C8}|AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj|solutionrelative:aplikacjadeklaracji\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\.gitignore",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\.gitignore",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\.gitignore",
+              "RelativeToolTip": "AplikacjaDeklaracji\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-20T22:43:13.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AplikacjaDeklaracji.csproj",
+              "DocumentMoniker": "C:\\Users\\adria\\Source\\Repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj",
+              "ToolTip": "C:\\Users\\adria\\Source\\Repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj",
+              "RelativeToolTip": "AplikacjaDeklaracji\\AplikacjaDeklaracji.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-20T22:19:21.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\adria\\AppData\\Roaming\\Microsoft\\UserSecrets\\bd5434b0-539f-4f03-bb22-38f09212716a\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\bd5434b0-539f-4f03-bb22-38f09212716a\\secrets.json",
+              "ToolTip": "C:\\Users\\adria\\AppData\\Roaming\\Microsoft\\UserSecrets\\bd5434b0-539f-4f03-bb22-38f09212716a\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\bd5434b0-539f-4f03-bb22-38f09212716a\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-20T22:20:51.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\appsettings.json",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\appsettings.json",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\appsettings.json",
+              "RelativeToolTip": "AplikacjaDeklaracji\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-20T22:18:35.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Historia\\Index.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Historia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Historia\\Index.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Historia\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\TabelaDeklaracji\\Index.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\TabelaDeklaracji\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\TabelaDeklaracji\\Index.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\TabelaDeklaracji\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAIBJwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Program.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Program.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Program.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditLokal.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Historia\\EditLokal.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Historia\\EditLokal.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Historia\\EditLokal.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Historia\\EditLokal.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Historia\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Historia\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Historia\\Edit.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Historia\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NoDocuments.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Documents\\NoDocuments.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Documents\\NoDocuments.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Documents\\NoDocuments.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Documents\\NoDocuments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Documents\\Index.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\Documents\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\Documents\\Index.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\Documents\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Services\\LogService.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Services\\LogService.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Services\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\User.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TypZdarzenia.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\TypZdarzenia.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Models\\TypZdarzenia.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\TypZdarzenia.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Models\\TypZdarzenia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Lokale.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\Lokale.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Models\\Lokale.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\Lokale.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Models\\Lokale.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DokumentyOczekujace.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\DokumentyOczekujace.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Models\\DokumentyOczekujace.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\DokumentyOczekujace.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Models\\DokumentyOczekujace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Deklaracja.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\Deklaracja.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Models\\Deklaracja.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\Deklaracja.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Models\\Deklaracja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DaneOsobowe.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\DaneOsobowe.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Models\\DaneOsobowe.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\DaneOsobowe.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Models\\DaneOsobowe.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TabelaDeklaracjiController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\TabelaDeklaracjiController.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Controllers\\TabelaDeklaracjiController.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\TabelaDeklaracjiController.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Controllers\\TabelaDeklaracjiController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HistoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\HistoriaController.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Controllers\\HistoriaController.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\HistoriaController.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Controllers\\HistoriaController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAmwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\DocumentsController.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Controllers\\DocumentsController.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Controllers\\DocumentsController.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Controllers\\DocumentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T22:18:23.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "AplikacjaDeklaracji\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-20T22:18:23.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AplikacjaDeklaracji\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\Bachelor-Project\\AplikacjaDeklaracji\\AplikacjaDeklaracji\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AplikacjaDeklaracji\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-20T22:18:23.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
