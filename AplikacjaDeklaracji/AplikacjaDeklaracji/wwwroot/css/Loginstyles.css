@@ -1,0 +1,65 @@
+﻿/* Loginstyles.css */
+
+/* Styl dla kontenera formularza */
+form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Styl dla komunikatu o błędzie */
+.div.alert.alert-danger {
+    max-width: 400px;
+    padding: 10px;
+    margin-top: 20px; /* Zmieniono z 'margin-bottom' na 'margin-top' */
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    color: #000000;
+    background-color: #f9f9f9;
+    border-color: #f5c6cb;
+}
+
+/* Styl dla etykiety */
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Styl dla pól formularza */
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Styl dla przycisku logowania */
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #2f00ff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Styl dla odnośnika "Utwórz nowe konto" */
+.registerlink {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    color: #007bff;
+    text-decoration: none;
+}
+
+    /* Styl dla odnośnika "Utwórz nowe konto" po najechaniu myszką */
+    a:hover {
+        text-decoration: underline;
+    }

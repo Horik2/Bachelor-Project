@@ -1,0 +1,94 @@
+﻿@model AplikacjaDeklaracji.Models.Deklaracja
+@{
+    ViewData["Title"] = "Historia";
+}
+
+<h2>Edycja deklaracji</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label>Pesel:</label>
+        <input asp-for="DaneOsobowe.Pesel" class="form-control" value="@Model.DaneOsobowe.Pesel" />
+
+        <label>Nazwisko:</label>
+        <input asp-for="DaneOsobowe.Nazwisko" class="form-control" value="@Model.DaneOsobowe.Nazwisko" />
+
+        <label>Imię:</label>
+        <input asp-for="DaneOsobowe.Imie" class="form-control" value="@Model.DaneOsobowe.Imie" />
+
+        <label>Drugie imię:</label>
+        <input asp-for="DaneOsobowe.DrugieImie" class="form-control" value="@Model.DaneOsobowe.DrugieImie" />
+
+        <label>Imię ojca:</label>
+        <input asp-for="DaneOsobowe.ImieOjca" class="form-control" value="@Model.DaneOsobowe.ImieOjca" />
+
+        <label>Imię matki:</label>
+        <input asp-for="DaneOsobowe.ImieMatki" class="form-control" value="@Model.DaneOsobowe.ImieMatki" />
+
+        <label>Data urodzenia:</label>
+        <input asp-for="DaneOsobowe.DataUrodzenia" id="dataUrodzeniaInput" type="date" class="form-control" />
+
+        <label>Pelna nazwa:</label>
+        <input asp-for="DaneOsobowe.PelnaNazwa" class="form-control" value="@Model.DaneOsobowe.PelnaNazwa" />
+
+        <label>Identyfikator regon:</label>
+        <input asp-for="DaneOsobowe.IdentyfikatorRegon" class="form-control" value="@Model.DaneOsobowe.IdentyfikatorRegon" />
+
+        <label>Identyfikator nip:</label>
+        <input asp-for="DaneOsobowe.IdentyfikatorNip" class="form-control" value="@Model.DaneOsobowe.IdentyfikatorNip" />
+
+        <label>Numer telefonu:</label>
+        <input asp-for="DaneOsobowe.NrTelefonu" class="form-control" value="@Model.DaneOsobowe.NrTelefonu" />
+
+        <label>Adres email:</label>
+        <input asp-for="DaneOsobowe.AdresEMail" class="form-control" value="@Model.DaneOsobowe.AdresEMail" />
+    </div>
+    <br>
+    <button type="submit" class="btn btn-primary">Zapisz zmiany</button>
+</form>
+<br>
+
+@if (Model.DaneOsobowe != null && Model.DaneOsobowe.Lokale != null && Model.DaneOsobowe.Lokale.Any())
+{
+    <h3>Informacje o lokalach:</h3>
+    <div class="list-group">
+        @foreach (var lokal in Model.DaneOsobowe.Lokale)
+        {
+            <div class="list-group-item">
+                <p class="mb-1">Kraj: @lokal.Kraj</p>
+                <p class="mb-1">Województwo: @lokal.Wojewodztwo</p>
+                <p class="mb-1">Powiat: @lokal.Powiat</p>
+                <p class="mb-1">Gmina: @lokal.Gmina</p>
+                <p class="mb-1">Ulica: @lokal.Ulica</p>
+                <p class="mb-1">Numer domu: @lokal.NrDomu</p>
+                <p class="mb-1">Numer lokalu: @lokal.NrLokalu</p>
+                <p class="mb-1">Miejscowość: @lokal.Miejscowosc</p>
+                <p class="mb-1">Kod pocztowy: @lokal.KodPocztowy</p>
+                <p class="mb-1">Stawka za osobę: @lokal.StawkaZaOs</p>
+                <p class="mb-1">Liczba osób: @lokal.LiczbaOsob</p>
+                <p class="mb-1">Kwota zwolnienia: @lokal.KwotaZwolnienia</p>
+                <p class="mb-1">Wysokość opłaty: @lokal.WysokoscOplaty</p>
+                <p class="mb-1">Koszt ostateczny: @lokal.KosztOstateczny</p>
+                <p class="mb-1">Kwartalna opłata: @lokal.KwartalnaOplata</p>
+                <br>
+                <a href="/Historia/EditLokal?id=@lokal.Id" class="btn btn-primary">Edytuj lokal</a>
+            </div>
+            <br>
+        }
+    </div>
+
+
+}
+else
+{
+    <p>Brak informacji o lokalach</p>
+}
+
+
+    <script>
+    var dataUrodzenia = "@Model.DaneOsobowe.DataUrodzenia.ToString("yyyy-MM-dd")";
+
+    document.getElementById("dataUrodzeniaInput").value = dataUrodzenia;
+</script>

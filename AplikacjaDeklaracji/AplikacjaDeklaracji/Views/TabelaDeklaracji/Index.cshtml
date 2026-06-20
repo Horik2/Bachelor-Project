@@ -1,0 +1,173 @@
+﻿@model AplikacjaDeklaracji.Models.DaneOsobowe
+@{
+    ViewData["Title"] = "Formularz";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<!-- Formularz -->
+<form method="post" asp-action="AddForm">
+    <!-- Dane osobowe -->
+    <div class="ramka" style="margin-top: 60px">
+        <big>Dane osobowe:</big><br /><br />
+        <span style="color: red;">*</span><label>Pesel:</label>
+        <input type="text" name="Pesel" id="Pesel" pattern="[0-9]{11}" required /><br /><br />
+
+        <span style="color: red;">*</span><label>Nazwisko:</label>
+        <input type="text" name="Nazwisko" id="Nazwisko" required /><br /><br />
+
+        <span style="color: red;">*</span><label>Imię:</label>
+        <input type="text" name="Imie" id="Imie" required /><br /><br />
+
+        <label>Drugie imię:</label>
+        <input type="text" name="DrugieImie" id="DrugieImie" /><br /><br />
+
+        <span style="color: red;">*</span><label>Imię matki:</label>
+        <input type="text" name="ImieMatki" id="ImieMatki" required /><br /><br />
+
+        <span style="color: red;">*</span><label>Imię ojca:</label>
+        <input type="text" name="ImieOjca" id="ImieOjca" required /><br /><br />
+
+        <span style="color: red;">*</span><label>Data urodzenia:</label>
+        <input type="date" name="DataUrodzenia" id="DataUrodzenia" required /><br /><br /><br />
+    </div>
+
+    <div class="ramka">
+        <big>Dane kontaktowe:</big><br /><br />
+
+        <label>Numer telefonu:</label>
+        <input type="number" name="NrTelefonu" id="NrTelefonu" pattern="[0-9]{9}" /><small>Format: 123456789</small><br /><br />
+
+        <label>Adres email:</label>
+        <input type="email" name="AdresEMail" id="AdresEMail" /><br /><br /><br />
+
+        <p>Jeżeli prowadzisz firmę podaj poniższe:</p>
+
+        <label>Pełna nazwa:</label>
+        <input type="text" name="PelnaNazwa" id="PelnaNazwa" /><br /><br />
+
+        <label>Identyfikator REGON:</label>
+        <input type="number" name="IdentyfikatorRegon" id="IdentyfikatorRegon" /><br /><br />
+
+        <label>Identyfikator NIP:</label>
+        <input type="number" name="IdentyfikatorNIP" id="IdentyfikatorNip" /><br /><br /><br />
+    </div>
+    
+    <div id="lokale-container">
+        
+        <div class="lokal">
+            <div class="ramka">
+            <big>Miejsce zamieszkania:</big><br /><br />
+
+            <span style="color: red;">*</span><label>Kraj:</label>
+            <input type="text" name="Lokale[0].Kraj" required /><br /><br />
+
+            <span style="color: red;">*</span><label>Województwo:</label>
+            <input type="text" name="Lokale[0].Wojewodztwo" required /><br /><br />
+
+            <span style="color: red;">*</span><label>Powiat:</label>
+            <input type="text" name="Lokale[0].Powiat" required /><br /><br />
+
+            <span style="color: red;">*</span><label>Gmina:</label>
+            <input type="text" name="Lokale[0].Gmina" required /><br /><br />
+
+            <span style="color: red;">*</span><label>Miejscowość:</label>
+            <input type="text" name="Lokale[0].Miejscowosc" required /><br /><br />
+
+            <span style="color: red;">*</span><label>Kod pocztowy:</label>
+            <input type="number" name="Lokale[0].KodPocztowy" required /><br /><br />
+
+            <span style="color: red;">*</span><label>Ulica:</label>
+            <input type="text" name="Lokale[0].Ulica" required /><br /><br />
+
+            <label>Numer domu:</label>
+            <input type="number" name="Lokale[0].NrDomu" required /><br /><br />
+
+            <label>Numer lokalu:</label>
+            <input type="number" name="Lokale[0].NrLokalu" required /><br /><br /><br />
+
+            <big>Kwota do zapłaty:</big><br /><br />
+
+            <label>Stawka za osobę:</label>
+            <input type="number" name="Lokale[0].StawkaZaOs" required /><br /><br />
+
+            <label>Liczba osób:</label>
+            <input type="number" name="Lokale[0].LiczbaOsob" required /><br /><br />
+
+            <label>Kwota zwolnienia:</label>
+            <input type="number" name="Lokale[0].KwotaZwolnienia" required  /><br /><br /><br />
+            </div>
+
+        </div>
+    </div>
+    <br /><button type="button" onclick="dodajLokal()" class="btn-secondary">Dodaj lokalizację</button>
+    
+    <button type="submit" class="btn-primary">Wyślij</button><p style="color: red;">Wymagane pola oznaczone symbolem *</p><br />
+    
+</form>
+
+<script>
+    var liczbaLokali = 0;
+
+    function dodajLokal() {
+        liczbaLokali++; 
+        var div = document.createElement('div');
+        div.className = 'lokal';
+        div.id = `lokal_${liczbaLokali}`;
+        div.innerHTML = `
+            <div class="ramka">
+            <br /><big>Miejsce zamieszkania nr ${liczbaLokali + 1}:</big><br /><br />
+                <span style="color: red;">*</span><label>Kraj:</label>
+                <input type="text" name="Lokale[${liczbaLokali}].Kraj" required /><br /><br />
+
+                <span style="color: red;">*</span><label>Województwo:</label>
+                <input type="text" name="Lokale[${liczbaLokali}].Wojewodztwo" required /><br /><br />
+
+                <span style="color: red;">*</span><label>Powiat:</label>
+                <input type="text" name="Lokale[${liczbaLokali}].Powiat" required /><br /><br />
+
+                <span style="color: red;">*</span><label>Gmina:</label>
+                <input type="text" name="Lokale[${liczbaLokali}].Gmina" required /><br /><br />
+
+                <span style="color: red;">*</span><label>Miejscowość:</label>
+                <input type="text" name="Lokale[${liczbaLokali}].Miejscowosc" required /><br /><br />
+
+                <span style="color: red;">*</span><label>Kod pocztowy:</label>
+                <input type="number" name="Lokale[${liczbaLokali}].KodPocztowy" required /><br /><br />
+
+                <span style="color: red;">*</span><label>Ulica:</label>
+                <input type="text" name="Lokale[${liczbaLokali}].Ulica" required /><br /><br />
+
+            <label>Numer domu:</label>
+            <input type="number" name="Lokale[${liczbaLokali}].NrDomu" required /><br /><br />
+
+            <label>Numer lokalu:</label>
+                <input type="number" name="Lokale[${liczbaLokali}].NrLokalu" /><br /><br /><br />
+
+                <big>Kwota do zapłaty:</big><br /><br />
+
+                <span style="color: red;">*</span><label>Stawka za osobę:</label>
+                <input type="number" name="Lokale[${liczbaLokali}].StawkaZaOs" /><br /><br />
+
+                <span style="color: red;">*</span><label>Liczba osób:</label>
+                <input type="number" name="Lokale[${liczbaLokali}].LiczbaOsob" /><br /><br />
+
+                <span style="color: red;">*</span><label>Kwota zwolnienia:</label>
+                <input type="number" name="Lokale[${liczbaLokali}].KwotaZwolnienia" /><br /><br /><br />
+
+                                    <button type="button"  class="btn-secondary" onclick="usunLokal('${div.id}')">Usuń tą lokalizację</button>
+            </div>
+        `; 
+        document.getElementById('lokale-container').appendChild(div); 
+    }
+
+    // usuwanie
+    function usunLokal(id) {
+        var element = document.getElementById(id);
+        element.parentNode.removeChild(element);
+        liczbaLokali = 0;
+    }
+
+</script>

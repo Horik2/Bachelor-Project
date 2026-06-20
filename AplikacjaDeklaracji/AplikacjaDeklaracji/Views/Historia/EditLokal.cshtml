@@ -1,0 +1,39 @@
+﻿@model AplikacjaDeklaracji.Models.Lokale
+@{
+    ViewData["Title"] = "Lokale";
+}
+<h2>Edycja Lokalu</h2>
+
+<form asp-action="EditLokal" method="post">
+    <div class="form-group">
+        <input type="hidden" asp-for="Id" />
+
+        <label>Kraj:</label>
+        <input asp-for="Kraj" class="form-control" value="@Model.Kraj" />
+
+        <label>Województwo:</label>
+        <input asp-for="Wojewodztwo" class="form-control" value="@Model.Wojewodztwo" />
+        <label>Powiat:</label>
+        <input asp-for="Powiat" class="form-control" value="@Model.Powiat" />
+        <label>Gmina:</label>
+        <input asp-for="Gmina" class="form-control" value="@Model.Gmina" />
+        <label>Miejscowość:</label>
+        <input asp-for="Miejscowosc" class="form-control" value="@Model.Miejscowosc" />
+        <label>KodPocztowy:</label>
+        <input asp-for="KodPocztowy" class="form-control" value="@Model.KodPocztowy" />
+        <label>Ulica:</label>
+        <input asp-for="Ulica" class="form-control" value="@Model.Ulica" />
+        <label>NrDomu:</label>
+        <input asp-for="NrDomu" class="form-control" value="@Model.NrDomu" />
+        <label>NrLokalu:</label>
+        <input asp-for="NrLokalu" class="form-control" value="@Model.NrLokalu" />
+        <label>Stawka za osobę:</label>
+        <input asp-for="StawkaZaOs" class="form-control" value="@Model.StawkaZaOs" />
+        <label>Liczba osób:</label>
+        <input asp-for="LiczbaOsob" class="form-control" value="@Model.LiczbaOsob" />
+        <label>Kwota zwolnienia:</label>
+        <input asp-for="KwotaZwolnienia" class="form-control" value="@Model.KwotaZwolnienia" />
+
+        <button type="submit" class="btn btn-primary">Zapisz zmiany</button>
+    </div>
+</form>

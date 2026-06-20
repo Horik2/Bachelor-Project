@@ -1,0 +1,39 @@
+﻿@model AplikacjaDeklaracji.Models.User
+@{
+    ViewData["Title"] = "Register";
+}
+@if (TempData["Alert"] != null)
+{
+    <div class="alert alert-danger ">
+        @TempData["Alert"]
+    </div>
+}
+<head>
+    <link rel="stylesheet" href="~/css/Registerstyles.css" />
+</head>
+
+<form method="post" asp-action="AddUser">
+    <div>
+        <label>Nazwa użytkownika:</label>
+        <input type="text" name="Username" required />
+        <span asp-validation-for="Username"></span>
+        <br />
+    </div>
+    <div>
+        <label>Hasło:</label>
+        <input type="password" name="PasswordHash" pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!\u0040#$%^&*_=+-.,]).{8,}$" required />
+        <span asp-validation-for="PasswordHash"></span><br><br>
+        <small>Hasło musi składać się z przynajmniej 8 znaków w tym:
+        <ul>
+            <li>Zawierać przynajmniej jedną małą literę [a-z]</li>
+            <li>Zawierać przynajmniej jedną wielką literę [A-Z]</li>
+            <li>Zawierać przynajmniej jedną cyfrę [0-9]</li>
+            <li>Zawierać przynajmniej jeden znak specjalny</li>
+        <ul/>
+        <br />
+        </small>
+    </div>
+    <div>
+        <button type="submit">Register</button>
+    </div>
+</form>

@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Strona główna";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Witaj na stronie głównej</h1>
+    @if (ViewContext.HttpContext.User.Identity.IsAuthenticated)
+    {
+        <p>Przejdź do zakładki formularz aby utworzyć deklarację!</p>
+    }
+    else
+    {
+        <p>Zaloguj się aby stworzyć deklarację śmieciową</p>
+    }
+
+</div>

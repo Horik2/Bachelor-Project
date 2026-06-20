@@ -1,0 +1,40 @@
+﻿@model IEnumerable<AplikacjaDeklaracji.Models.Deklaracja>
+@{
+    ViewData["Title"] = "Historia";
+}
+
+
+
+<h2>Moje deklaracje</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Data</th>
+            <th> Edycja</th>
+            <th> Usuwanie</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var declaration in Model)
+        {
+            <tr>
+                <td>@declaration.Data</td>
+                
+                <td>
+                    <a asp-action="Edit" asp-route-id="@declaration.Id" class="btn">Edytuj</a>
+                    
+  
+                </td>
+                <td>
+                    <form asp-action="Delete" asp-route-id="@declaration.Id" method="post" onsubmit="return confirm('Czy na pewno chcesz usunąć tę deklarację?')">
+                        <button type="submit" class="btn">Usuń</button>
+                    </form>
+                </td>
+                
+                    
+                
+            </tr>
+        }
+    </tbody>
+</table>

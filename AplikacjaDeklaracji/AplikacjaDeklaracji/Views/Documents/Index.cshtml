@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <h2>Odpowiedź Pull Oczekujące</h2>
+
+    @if (ViewBag.LiczbaOczekujacychDokumentow != null)
+    {
+        <p>Liczba oczekujących dokumentów: @ViewBag.LiczbaOczekujacychDokumentow</p>
+    }
+    else
+    {
+        <p>Brak oczekujących dokumentów.</p>
+    }
+
+</body>
+</html>
