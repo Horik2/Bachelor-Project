@@ -18,7 +18,7 @@ namespace AplikacjaDeklaracji.Services
         {
 
             SqlConnection Conn = new SqlConnection();
-            Conn.ConnectionString = "Server=DESKTOP-6MKMMG5\\SERVERLAB;Database=AktualnaBazaDeklaracje;Trusted_Connection=True;TrustServerCertificate=True;";
+            Conn.ConnectionString = "PLACEHOLDER_CONSTRING";
             Conn.Open();
 
             SqlCommand Comm = new SqlCommand("INSERT INTO [LOGI] ([USER_ID], [TYP_ZDARZENIA], [WIADOMOSC],[OPIS]) VALUES (@USER_ID, @TYP_ZDARZENIA, @WIADOMOSC, @OPIS)", Conn);
